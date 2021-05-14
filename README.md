@@ -8,7 +8,7 @@
 
 # PORT = 3000
 
-# DB_CON = mongodb+srv://<username>:<password>@cluster0.ewcyi.mongodb.net/<dbname> 
+# DB_CON = mongodb+srv://username:password@cluster0.ewcyi.mongodb.net/databasename 
   
 # ACCESS_TOKEN_SECRET =0a39b613aa38188eb203b1976af5b1c1becf7504206bb4b8c6238d809b2305d8
 
